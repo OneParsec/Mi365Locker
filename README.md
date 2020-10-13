@@ -1,6 +1,6 @@
 
 # XiaomiM365Locker
-[@RaniXCH](https://twitter.com/raniXCH)
+[Releases](https://github.com/OneParsec/Mi365Locker/releases)
 
 
 The app allows you to search for Xiaomi scooters lock & unlock the devices.
