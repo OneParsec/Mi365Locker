@@ -3,7 +3,7 @@
 [@RaniXCH](https://twitter.com/raniXCH)
 
 <p align="center">
-<a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-0.1-blue" ></a>  
+<a href="https://github.com/OneParsec/Mi365Locker/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-0.1-blue" ></a>  
 </p>
 
 The app allows you to search for Xiaomi scooters lock & unlock the devices.
